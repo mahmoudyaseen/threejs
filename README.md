@@ -4,7 +4,7 @@ install dependencies:
 npm install
 
 how to run:
-parcel ./src/index.html
+parcel ./index.html
 
 follows 
 Three.js Tutorial For Absolute Beginners 
